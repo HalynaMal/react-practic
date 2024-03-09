@@ -1,8 +1,8 @@
 import "./App.css";
-import userData from "./userData.json";
+import userData from "./components/Profile/userData.json";
 import Profile from "./components/Profile/Profile";
 import FriendList from "./components/FriendList/FriendList";
-import friends from "./friends.json"
+import friends from "./components/FriendList/friends.json"
 
 
 const App = () => {
